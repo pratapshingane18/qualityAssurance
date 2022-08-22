@@ -1,0 +1,21 @@
+.contact{
+    padding: 50px, 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    background: linear-gradient( #f57323 98%, white 0%);
+
+}
+
+.col-sm-3{
+    flex-basis: 50%;
+    display: flex;
+}
+
+.col-sm-9{
+    flex-basis: 50%;
+}
